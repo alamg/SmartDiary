@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoUSmartDiary</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_etfaculty">Etfaculty</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+</resources>

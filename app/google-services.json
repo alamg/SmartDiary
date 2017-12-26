@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "597292416776",
+    "firebase_url": "https://fragmentdemo-1d345.firebaseio.com",
+    "project_id": "fragmentdemo-1d345",
+    "storage_bucket": "fragmentdemo-1d345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597292416776:android:5be02934c233428a",
+        "android_client_info": {
+          "package_name": "com.cou.cse.alamgir.smartdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597292416776-ke6t8josnit47mkajb74tdudmeb4isbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cou.cse.alamgir.smartdiary",
+            "certificate_hash": "be5cee53c20257abca029686f26a15ccb8f59753"
+          }
+        },
+        {
+          "client_id": "597292416776-jmeo8bopg9m7it4rf9csjnns90heo8tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLqdCbl6sxqZR81Z08DNDXiGNxHrT52dI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597292416776-jmeo8bopg9m7it4rf9csjnns90heo8tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

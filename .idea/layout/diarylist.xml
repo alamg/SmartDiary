@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_margin="10dp"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:hint="TextView"
+        android:layout_width="0dp"
+        android:layout_weight="7"
+        android:textSize="20sp"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvname" />
+    <Button
+        android:id="@+id/btndelte"
+        android:onClick="delete"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_icon"
+    />
+
+
+</LinearLayout>
