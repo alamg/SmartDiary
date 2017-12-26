@@ -48,6 +48,7 @@ public class DiaryActiviry extends AppCompatActivity implements NavigationView.O
     Toolbar toolbar;
     NavigationView navigationView;
     DrawerLayout mdrawerLayout;
+    // this is my project
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
